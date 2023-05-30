@@ -1,6 +1,6 @@
 Inforamtion about the project:
 
-Name: Danii
+Name: Daniil
 
 Surname: Vdovenko
 
